@@ -10,7 +10,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: #282a36;
+    background-color: #4169E1;
 }
 
 .memory-game {
