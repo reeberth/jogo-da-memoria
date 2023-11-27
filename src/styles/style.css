@@ -46,7 +46,7 @@ body {
   padding: 20px;
   position: absolute;
   border-radius: 5px;
-  background: rgb(92, 187, 182);
+  background: rgb(0, 0, 139);
   backface-visibility: hidden; /* todo elemento tem uma frente e um verso (ao contrário, como um espelho.) essa propriedade retira o verso */
 }
 
